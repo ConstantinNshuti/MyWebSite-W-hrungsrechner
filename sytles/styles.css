@@ -1,0 +1,277 @@
+/* Styles für die Website von Axel Schumann */
+
+:root {
+    /* my document style 1 */
+    --as-bg-col-00:    #fff899;
+    --as-bg-col-01:    #f8f899;
+    --as-bg-col-02:    snow;
+    --as-col-a:        darkblue;
+    --as-col-emph:     darkred;
+    --as-col-a-h:      white;
+    --as-bg-col-a-h:   red;
+    --as-col-nav_a:    blue;
+    --as-bg-col-nav-p: wheat;
+    --as-bg-col-tr:    white;
+    --as-font-01:      sans-serif;
+
+    /* Style 2
+    --as-bg-col-00:    red;
+    --as-bg-col-01:    lightblue;
+    --as-bg-col-02:    yellow;
+    --as-font-01:      'Maven Pro', serif;
+    */
+}
+
+* { /* all elements */
+    font-family: var(--as-font-01);
+    box-sizing: border-box;        /* important for responsive design */
+}
+
+html {
+    background-color: var(--as-bg-col-02);
+}
+
+body {
+    width: 800px;
+    background-color: var(--as-bg-col-00);
+    margin-left: 20px;
+}
+
+body:hover {
+    background-color: var(--as-bg-col-02);
+}
+
+article.participants {
+    text-align: justify;
+}
+
+article:hover, footer:hover {
+    background-color: var(--as-bg-col-01);
+}
+
+footer {
+    clear: both;
+    font-size: 80%;
+}
+
+footer p {
+    margin: 0px;
+
+}
+
+header {
+    top: 0px;
+    position: sticky;
+    position: -webkit-sticky; /* for Safari Browser */
+    background-color: var(--as-bg-col-01);
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+nav {
+    top: 42px;
+    position: sticky;
+    position: -webkit-sticky; /* for Safari Browser */
+    background-color: var(--as-bg-col-01);
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+nav a {
+    font-weight: bold;
+    text-decoration: none;
+    color: var(--as-col-nav_a);
+}
+nav a:visited {
+    color: var(--as-col-nav_a);
+}
+nav a:hover{
+    background-color: var(--as-bg-col-a-h);
+    color: var(--as-col-a-h);
+}
+
+nav p {
+    background-color: var(--as-bg-col-nav-p);
+}
+
+
+
+hr {
+    color: var(--as-col-a);
+    border-width: 2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding-left: 5px;
+}
+
+p {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--as-col-a);
+}
+
+a.a_round {
+    margin-left: 5px;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: lightgrey;
+}
+
+a.goback {
+    margin: 10px;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: lightgrey;
+    float: right;
+}
+
+a:visited {
+    color: var(--as-col-a);
+}
+
+a:hover {
+    background-color: var(--as-bg-col-a-h);
+    color: var(--as-col-a-h);
+}
+
+
+table.itsme td {
+    vertical-align: top;
+    padding-left: 20px;
+    margin-top: 0px;
+
+}
+
+table.timetable {
+    width: 90%;
+    text-align: center;
+    margin-left:5%;
+    margin-top:0px;
+    margin-bottom: 20px;
+}
+
+table.timetable td {
+    border: 1px solid black;
+}
+
+table.timetable tbody tr:hover {
+    background-color:  var(--as-bg-col-tr);
+}
+
+table.timetable td:hover {
+    background-color: var(--as-bg-col-a-h);
+    color: var(--as-col-a-h);
+}
+
+
+.ok {
+    background: lightgreen;
+}
+
+.col_emphases{
+    color: var(--as-col-emph);
+}
+
+
+.m-top-bottom-0 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.m-top-bottom-5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.m-top-bottom-nav {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+}
+
+/* Laufende Uhr */
+
+p#clock {
+    font-style: bold;
+    font-size: 150%;
+    margin-left: 10%;
+    color: var(--as-col-emph);
+}
+
+
+#submitbutton p {
+    text-align: center;
+}
+
+
+.as_float_r {
+    float: right;
+}
+
+.as_float_l {
+    float: left;
+}
+
+.as_m_r_5px {
+    margin-right: 5px ;
+}
+
+.as_m_l_5 {
+    margin-left: 5% ;
+}
+
+
+.as_mark {
+    font-weight: bold;
+}
+
+.as_width_60 {
+    width: 60%;
+}
+
+/* 12 Spalten (Columns) Grid-System  */
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+[class*="col-"] {
+    float: left;
+    margin: 0px;
+    border: red solid 1px;
+}
+
+.col-nb {
+    border: 0px;
+}
+
+.new_row {
+    clear: both;
+}
+
+/* responsive design */
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+    body {
+        width: 100%;
+        margin-left: 0px;
+    }
+}
