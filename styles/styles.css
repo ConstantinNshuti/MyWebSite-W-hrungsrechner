@@ -1,4 +1,4 @@
-/* Styles für die Website von Axel Schumann */
+/* Styles für die Website von Constantin Nshuti */
 
 :root {
     /* my document style 1 */
@@ -98,7 +98,7 @@ nav p {
 
 hr {
     color: var(--as-col-a);
-    border-width: 2px;
+    border-width: 3px;
 }
 
 h1, h2, h3, h4, h5, h6 {
