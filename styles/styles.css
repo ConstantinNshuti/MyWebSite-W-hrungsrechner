@@ -24,7 +24,7 @@
 
 * { /* all elements */
     font-family: var(--as-font-01);
-    box-sizing: border-box;        /* important for responsive design */
+    box-sizing: border-box;   /* important for responsive design */
 }
 
 html {
@@ -235,7 +235,7 @@ p#clock {
 }
 
 /* 12 Spalten (Columns) Grid-System  */
-
+.col-0 {width: 3%}
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
@@ -252,7 +252,7 @@ p#clock {
 [class*="col-"] {
     float: left;
     margin: 0px;
-    border: red solid 1px;
+    /*border: red solid 1px;*/
 }
 
 .col-nb {
