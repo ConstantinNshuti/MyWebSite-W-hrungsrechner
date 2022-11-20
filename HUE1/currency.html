@@ -2,9 +2,43 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="currency.css">
+    <title>Currency Calculator</title>
 </head>
 <body>
+<h2 id="version">Currency Calculator</h2>
+<p>This currency calculator shows the exchange rate table for 2 currencies</p> <br>
+<article>
+    <div id="swap">
+        <form>
+            <label >Currency 1:</label>
+            <input id="wert1" type="number" required >
+            <label >Currency 2:</label>
+            <input id="wert2" type="number" required >
+            <button id="swapbutton" type="button" >Swap currencies</button>
+        </form>
+    </div><br>
+    <div id="rate">
+        <form>
+            <label >Exchange rate</label>
+            <input id="resulat" type="number" disabled>
+            <button id="calculate" type="button">Calculate table</button>
+        </form>
 
+    </div><br>
+    <div id="neu-zeile">
+
+    </div><br>
+    <div id="table-laden">
+
+
+    </div><br>
+    <div id="footer">
+
+    </div>
+
+
+</article>
+<script src="currency.js"> </script>
 </body>
 </html>

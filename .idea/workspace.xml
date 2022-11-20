@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="defb5889-a688-4da3-836c-52bafcae2855" name="Changes" comment="commit&quot;gute Schritt3&quot;">
-      <change afterPath="$PROJECT_DIR$/HUE1/currency.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUE1/currency.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUE1/currency.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lesen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reisen.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/hobbys.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myOwnWebPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/myOwnWebPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stundenplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/stundenplan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,19 +29,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/constantinn/webbasierte-systeme",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/constantinn/webbasierte-systeme/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -58,7 +49,6 @@
       <recent name="$PROJECT_DIR$/styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/sytles" />
     </key>
@@ -75,8 +65,7 @@
       <workItem from="1667211248725" duration="890000" />
       <workItem from="1667224601759" duration="599000" />
       <workItem from="1667286080769" duration="55550000" />
-      <workItem from="1668714476435" duration="1066000" />
-      <workItem from="1668983532137" duration="355000" />
+      <workItem from="1668714476435" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1667211425514</created>
