@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="defb5889-a688-4da3-836c-52bafcae2855" name="Changes" comment="html datei">
-      <change afterPath="$PROJECT_DIR$/HUE1/icon.jpg" afterDir="false" />
+    <list default="true" id="defb5889-a688-4da3-836c-52bafcae2855" name="Changes" comment="typescript">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HUE1/currency.css" beforeDir="false" afterPath="$PROJECT_DIR$/HUE1/currency.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HUE1/currency.html" beforeDir="false" afterPath="$PROJECT_DIR$/HUE1/currency.html" afterDir="false" />
@@ -73,7 +72,7 @@
       <workItem from="1667224601759" duration="599000" />
       <workItem from="1667286080769" duration="55550000" />
       <workItem from="1668714476435" duration="1066000" />
-      <workItem from="1668983532137" duration="2731000" />
+      <workItem from="1668983532137" duration="10900000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1667211425514</created>
@@ -145,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668984144727</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="typescript">
+      <created>1669040862292</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669040862292</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +183,7 @@
     <MESSAGE value="commit&quot;gute Schritt3&quot;" />
     <MESSAGE value="Hausübung 1" />
     <MESSAGE value="html datei" />
-    <option name="LAST_COMMIT_MESSAGE" value="html datei" />
+    <MESSAGE value="typescript" />
+    <option name="LAST_COMMIT_MESSAGE" value="typescript" />
   </component>
 </project>

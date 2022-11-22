@@ -1,0 +1,45 @@
+
+
+:root {
+    /* my document style 1 */
+    --as-font-01: sans-serif;
+    --as-width: 800px;
+    --as-t-head: #fce7f9;
+    --as-t-fr: rgba(234, 234, 24, 0.68);
+    --as-t-sec : rgba(67, 236, 236, 0.54);
+    --as-t-thr : #fac4f8;
+
+}
+*{ /* all elements */
+    font-family: var(--as-font-01);
+}
+html {
+    width: var(--as-width);
+
+}
+#as-table{
+width: 10em;
+}
+.first-line{
+    background-color: var(--as-t-head);
+    height: 1.5em;
+}
+
+.first-10{
+    background-color: var(--as-t-fr);
+}
+.first-100{
+    background-color: var(--as-t-sec);
+
+}
+.first-1000{
+    background-color: var(--as-t-thr);
+
+}
+
+tr:hover  {
+    background: #d3c0f8;
+}
+td:hover {
+    background-color: #7179cc;
+}
