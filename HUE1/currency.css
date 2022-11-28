@@ -4,6 +4,7 @@
     /* my document style 1 */
     --as-font-01: sans-serif;
     --as-width: 800px;
+    --as-height: 100px;
     --as-t-head: #fce7f9;
     --as-t-fr: rgba(234, 234, 24, 0.68);
     --as-t-sec : rgba(67, 236, 236, 0.54);
@@ -28,6 +29,16 @@ width: 10em;
 .first-10{
     background-color: var(--as-t-fr);
 }
+.farbe2zeile {
+    background-color:blueviolet;
+}
+.farbe20zeile{
+    background-color:blueviolet;
+}
+.farbe200zeile{
+    background-color:blueviolet;
+}
+
 .first-100{
     background-color: var(--as-t-sec);
 
