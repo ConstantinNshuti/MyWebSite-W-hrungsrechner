@@ -18,11 +18,41 @@ html {
     width: var(--as-width);
 
 }
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    background-color: bisque;
+}
+#rate{
+    margin: auto;
+    width: 80%;
+
+    padding: 10px;
+}
+#swapbutton{
+    background-color: cadetblue;
+}
+#calculate{
+    background-color: cadetblue;
+}
+#neu-zeile{
+    background-color: cadetblue;
+    text-align: center;
+}
+#footer{
+    text-align: center;
+  color: #070707;
+}
+
 #as-table{
-width: 10em;
+
+    margin: auto;
+    width: 40%;
+    padding: 10px;
 }
 .first-line{
-    background-color: var(--as-t-head);
+    background-color: #a85b5b;
     height: 1.5em;
 }
 
@@ -30,13 +60,13 @@ width: 10em;
     background-color: var(--as-t-fr);
 }
 .farbe2zeile {
-    background-color:blueviolet;
+    background-color: #2f95a2;
 }
 .farbe20zeile{
-    background-color:blueviolet;
+    background-color: #2f95a2;
 }
 .farbe200zeile{
-    background-color:blueviolet;
+    background-color: #2f95a2;
 }
 
 .first-100{
