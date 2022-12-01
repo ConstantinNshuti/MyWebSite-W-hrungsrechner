@@ -1,4 +1,11 @@
-#Aufgabenstellung
+#1#
+
+# My Own Website with only HTML und CSS
+
+Diese Website habe ich erstellt um alles über mich und mein Heimatland Ruanda zu erzählen, beispielsweise mehr über von wo ich ursprünglich herkomme, was ich mittlerweile mache, meine Vorhaben und Hobbys. Dadurch werden Sie als Besucher Spaße haben und nach Interesse mein Heimatland besuchen.
+
+#2#
+# Währungsrechner
 
 Erstellung Sie einer Webseite, die einen Währungsrechner beinhaltet. Der Währungsrechner soll eine Tabelle zur Umrechnung von einer Ausgangswährung (Currency 1) in eine Zielwährung (Currency 2) erstellen.
 
