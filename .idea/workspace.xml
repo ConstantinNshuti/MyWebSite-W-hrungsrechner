@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="defb5889-a688-4da3-836c-52bafcae2855" name="Changes" comment="Final Abgabe1">
+    <list default="true" id="defb5889-a688-4da3-836c-52bafcae2855" name="Changes" comment="ALL CHANGES">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUE1/currency.css" beforeDir="false" afterPath="$PROJECT_DIR$/Währungsrechner/currency.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUE1/currency.html" beforeDir="false" afterPath="$PROJECT_DIR$/Währungsrechner/currency.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUE1/currency.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Währungsrechner/currency.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUE1/icon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Währungsrechner/icon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/hobbys.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/as.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/as.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/as1.1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/as1.1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/as1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/as1.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/as2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/as2.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/as_icon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/as_icon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ibirunga.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/ibirunga.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/imisozi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/imisozi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ingagi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/ingagi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ingagi1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/ingagi1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/inka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/inka.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lesen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/lesen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mbape.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/mbape.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/radison.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/radison.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/reisen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/reisen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/umugezi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/umugezi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/visit.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/visit.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wald.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/images/wald.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myOwnWebPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/myOwnWebPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stundenplan.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/stundenplan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWebSite/myOwnWebPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyWebSite/myOwnWebPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Währungsrechner/currency.css" beforeDir="false" afterPath="$PROJECT_DIR$/Währungsrechner/currency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Währungsrechner/currency.html" beforeDir="false" afterPath="$PROJECT_DIR$/Währungsrechner/currency.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Währungsrechner/currency.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Währungsrechner/currency.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +75,10 @@
       <workItem from="1667286080769" duration="55550000" />
       <workItem from="1668714476435" duration="1066000" />
       <workItem from="1668983532137" duration="25806000" />
-      <workItem from="1669644532204" duration="31401000" />
+      <workItem from="1669644532204" duration="32447000" />
+      <workItem from="1669891515828" duration="605000" />
+      <workItem from="1669931370310" duration="413000" />
+      <workItem from="1669936025857" duration="4563000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1667211425514</created>
@@ -203,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669888584629</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ALL CHANGES">
+      <created>1669889561117</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669889561117</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +229,7 @@
     <MESSAGE value=" final again" />
     <MESSAGE value="Final Abgabe" />
     <MESSAGE value="Final Abgabe1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Abgabe1" />
+    <MESSAGE value="ALL CHANGES" />
+    <option name="LAST_COMMIT_MESSAGE" value="ALL CHANGES" />
   </component>
 </project>

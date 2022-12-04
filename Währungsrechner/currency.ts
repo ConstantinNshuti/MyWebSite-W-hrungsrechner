@@ -31,7 +31,7 @@ function swap_currency(){
        text2.value = wert2;
 
 
-        let x = 1/exchange;
+        let x = (1/exchange).toFixed(4);
         //@ts-ignore
         (document.getElementById("resulat") as HTMLInputElement).value = String(x);
          myExchangeResult1.innerHTML = `<p>Exchange rate ${wert1} / ${wert2} = ${(1/exchange).toFixed(4)}</p>`
@@ -67,7 +67,7 @@ function calculate_table(){
                     jedeZweite = 'farbe2zeile';
                 }
 
-                let y = (exchange * i).toFixed(2);
+                let y = (exchange * i).toFixed(4);
                 table +=`<tr class= ${jedeZweite} > <td>${i}</td><td>${y}
                     </td></tr>`;
 
@@ -78,7 +78,7 @@ function calculate_table(){
                 if ((i % 20) !== 0){
                     jedeZweite1 = 'farbe20zeile';
                 }
-                let y = (exchange * i).toFixed(2);
+                let y = (exchange * i).toFixed(4);
                 table +=`<tr class= ${jedeZweite1} > <td>${i}</td><td>${y}
                     </td></tr>`;
             }
@@ -88,7 +88,7 @@ function calculate_table(){
                 if ((i % 200) === 0){
                     jedeZweite2 = 'farbe200zeile';
                 }
-                let y = (exchange * i).toFixed(2);
+                let y = (exchange * i).toFixed(4);
                 table +=`<tr class= ${jedeZweite2} > <td>${i}</td><td>${y}
                     </td></tr>`;
 

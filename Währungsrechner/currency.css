@@ -30,11 +30,21 @@ html {
 
     padding: 10px;
 }
+.ms-copy{
+   background-color: greenyellow;
+    text-align: center;
+}
 #swapbutton{
     background-color: cadetblue;
 }
+#swapbutton:hover{
+    background: #d3c0f8;
+}
 #calculate{
     background-color: cadetblue;
+}
+#calculate:hover{
+    background: #d3c0f8;
 }
 #neu-zeile{
     background-color: cadetblue;
@@ -52,7 +62,7 @@ html {
     padding: 10px;
 }
 .first-line{
-    background-color: #a85b5b;
+    background-color: greenyellow;
     height: 1.5em;
 }
 
